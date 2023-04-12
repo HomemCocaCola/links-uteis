@@ -450,6 +450,57 @@ Mais uma mitada do adm? A proposta de hoje é a de ajudar o pessoal que vai edit
 - [motionarray](https://motionarray.com/browse/stock-video/?free=true) - Os de graça deste site pago 
 - [mitchmartinez](https://mitchmartinez.com/free-4k-red-epic-stock-footage/)
 - [morguefile](https://morguefile.com/) - Também tem imagens
+### Essenciais de Áudio
+#### Efeitos Sonoros // Loops
+- [Free Sound](http://www.freesound.org/) - ```email: tnnryjpnlauuewhwjz@tcwlx.com // senha: tnnryjpnlauuewhwjz@tcwlx.com```
+- [SoundBible](https://soundbible.com/)
+- [Free-Loops](https://free-loops.com/)
+- [Free Sound Effects](https://www.freesoundeffects.com/)
+- [Zapsplat](https://www.zapsplat.com/)
+- [Orange Free Sounds](https://orangefreesounds.com/)
+- [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/) - [Downloader](https://github.com/FThompson/BBCSoundDownloader)
+- [Looperman](https://www.looperman.com/loops)
+- [sonniss2019](https://ftpmirror.your.org/pub/misc/sonniss2019/)
+- [Storyblocks](https://www.storyblocks.com/)
+- [LabChirp](https://labbed.net/software/labchirp/) - Programa
+- [Bfxr](https://www.bfxr.net/) - Programa
+- [Noizable](https://noizable.media/)
+- [SampleSwap](https://sampleswap.org/)
+- [SampleFocus](https://samplefocus.com/)
+- [Soundpacks](https://soundpacks.com/)
+- [Soundfishing](https://www.soundfishing.eu/)
+- [SampleScore](https://samplescope.app/) - Programa
+- [Meowpad](https://meowpad.me/en/)
+- [Dripchord](https://dripchord.com/)
+- [Audio Torrent](https://audiostorrent.com/)
+- [Go Audio](https://goaudio.me/)
+- [Samples Home](https://sampleshome.com/)
+- [VTS Base](https://vstbase.org/)
+- [Magesy](https://www.magesy.blog/)
+- [Magesy Pro](https://www.magesypro.com/)
+- [Music-Create](https://music-create.org/)
+- [Audio Tools](https://audio.tools/)
+- [Audio Micro](https://www.audiomicro.com/)
+#### Royalty Free Music
+- [Free Music Archive](https://freemusicarchive.org/)
+- [Free Soundtrack Music](https://www.freesoundtrackmusic.com/)
+- [Josh Woodward](https://www.joshwoodward.com/)
+- [Wow Sound](https://wowsound.com/) - Para Anime e Videojogos
+- [Epidemic Sound](https://www.epidemicsound.com/)
+- [Pixabay Music](https://pixabay.com/music/)
+- [Audio Micro](https://www.audiomicro.com/)
+- [StarFrosch](https://starfrosch.com/)
+- [Streambeats](https://www.senpai.tv/streambeats/)
+- [Mubert](https://mubert.com/) - AI Generated
+- [CCHound](https://www.cchound.com/)
+- [Music Screen](https://www.musicscreen.org/)
+- [Filmmusic](https://filmmusic.io/)
+- [Fugue](https://icons8.com/music)
+- [EDMRF](https://edmroyaltyfree.net/) - EDM
+- [Chosic](https://www.chosic.com/free-music/all/)
+- [Anttis Instrumentals](https://www.gamedev.net/news/2000-instrumental-pieces-released-by-anttis-instrumentals-r1135/) - [Torrent](https://drive.google.com/file/d/0ByvAPNATAYsBR0FUczYzWHk3NEU/view?resourcekey=0-_a4Sj2WeSDAsKbiCFTKHcQ)
+- [Sampld](https://open.sampld.app/)
+- [Blue Fox Music](https://bluefoxmusic.com/)
 ### Site com Reviews/Recomendações de Câmaras DSLR
 Estás a ter aquela crise existencial de possuíres uma câmara das boas? Foste à Worten mas todas se parecem o mesmo e como és uma pessoa que gosta de gastar sempre o seu dinheiro da melhor forma precisas de um site porreiro com reviews e recomendações? És obrigado a ter uma DSLR no teu cursinho da piça, pois se não perdes uma hora para requisitar a da escola e sucessivamente perdes a aula? Bem amigo, neste site poderás comparar câmaras e saber mais sobre as mesmas. Auto explicatório, por isso chega
 - [DPreview](https://www.dpreview.com/)
