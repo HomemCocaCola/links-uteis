@@ -707,8 +707,6 @@ Mais uma mitada do adm? A proposta de hoje é a de ajudar o pessoal que vai edit
 - [Sampld](https://open.sampld.app/)
 - [Blue Fox Music](https://bluefoxmusic.com/)
 
-
-
 ### Site com Reviews/Recomendações de Câmaras DSLR
 
 Estás a ter aquela crise existencial de possuíres uma câmara das boas? Foste à Worten mas todas se parecem o mesmo e como és uma pessoa que gosta de gastar sempre o seu dinheiro da melhor forma precisas de um site porreiro com reviews e recomendações? És obrigado a ter uma DSLR no teu cursinho da piça, pois se não perdes uma hora para requisitar a da escola e sucessivamente perdes a aula? Bem amigo, neste site poderás comparar câmaras e saber mais sobre as mesmas. Auto explicatório, por isso chega
@@ -1428,16 +1426,35 @@ Sem grandes dificuldades de utilizar. Basta instalar o app, abrir o mesmo e come
 
 ### Windows 10 LTSC Enterprise 21H2
 
-Olá pessoa que acabou de comprar um novo PC com uma 3050. Eu sei...foste tentar o Linux mas aquela merda nem o básico tinha e para criar a ISO numa pen já foi foda, por isso mesmo que queres voltar para o Ruindows. Nada temas, porque hoje te apresento a melhor versão do Windows possível. Esta versão é a Windows 10 LTSC, que tem suporte ainda uns bons anos, portanto não estás a usar um OS datado sem segurança. Como é a versão LTSC Education gamings e o caralho, não tens qualquer de lixo no sistema (apenas o Edge e o Defender, mas consegues os apagar). Por causa disso, não tens a Microsoft Store, mas não te preocupes que uma pesquisa básica no Google soluciona o problema. E pronto... é isso. Abre ai o Rufus e manda esta mitada para a pen.
+Olá pessoa que acabou de comprar um novo PC com uma 3050. Eu sei… foste tentar o Linux, mas aquela merda nem o básico tinha e para criar a ISO numa pen já foi foda, por isso mesmo que queres voltar para o Ruindows. Nada temas, porque hoje te apresento a melhor versão do Windows possível. Esta versão é a Windows 10 LTSC, que tem suporte ainda uns bons anos, portanto não usas um OS datado sem segurança. Como é a versão LTSC Education gamings e o caralho, não tens nenhum do lixo no sistema (apenas o Edge e o Defender, mas consegues os apagar). Por causa disso, não tens a Microsoft Store, mas não te preocupes de que uma pesquisa básica no Google soluciona o problema. E pronto... é isso. Abre aí o Rufus e manda esta mitada para a pen.
 
-- [Windows 10 LTSC Enterprise 21H2](https://isofiles.bd581e55.workers.dev/Windows%2010/Windows%2010%20Enterprise%20LTSC%202021/19044.1288_Enterprise_2021_LTSC/)
+**Os links que uso, são os primeiros, mas se este não funcionar, tenta os restantes**
+
+- [Windows 10 LTSC Enterprise 21H2 - Open Directory](https://opendirectory.luzea.de/luzea/Windows_10_Enterprise_LTSC_2021/)
+- [Windows 10 LTSC Enterprise 21H2 - Stuff.mtt-m1](https://stuff.mtt-m1.workers.dev/Windows%2010/Windows%2010%20Enterprise%20LTSC%202021/19044.1288_Enterprise_2021_LTSC/)
+- [Windows 10 LTSC Enterprise 21H2 - Iso Files](https://isofiles.bd581e55.workers.dev/Windows%2010/Windows%2010%20Enterprise%20LTSC%202021/19044.1288_Enterprise_2021_LTSC/)
 
 ### Ativador do Windows / Office e as outras merdas da Microsoft
 
 Ai Micropênis, Micropênis... Tu que antes eras tão bonitinha mas agora estás cheia das tuas macacadas. Por estas e outras (sendo esta o facto que não quero pagar) que recomendo o uso deste ativador. Não só ele ativa o Windows, como ativa mais umas quantas merdas que nem eu sei bem o que fazem. Plus, ele é open source gaming = melhor. Em suma, não usem o outro ativador deste chat...Simplesmente não apaguei porque ele ainda é usável mas eu prefiro que usem este.
 
-- [KMS_VL_ALL_AIO.cmd](https://cdn.discordapp.com/attachments/822853185638236180/970760106889326663/KMS_VL_ALL_AIO.cmd)
+**Versão Nova**
 
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
+
+Com este aqui, tu podes simplesmente colar este comando no powershell, para teres acesso a ele. Portanto, se estiveres a ter problemas com o teu antivírus / Windows Defender, podes tentar este método. Mesmo com isso em mente, podes também fazer download de um ativador ficheiro, pelo link acima.
+
+```irm https://massgrave.dev/get | iex```
+
+**Versão Antiga**
+
+- [KMS_VL_ALL_AIO.cmd](https://cdn.discordapp.com/attachments/822853185638236180/970760106889326663/KMS_VL_ALL_AIO.cmd)
+  
+### Programa para Fazer Download de Versões Do Windows
+
+Se não tiveres com confiança dos links que posto aqui, ou precisas de uma versão que ainda não partilhei, podes utilizar este programa. Ele faz o download, a partir dos servidores da Microsoft. Ele torna-se mais prático do que passar pelos múltiplos links da Microsoft, até conseguires o que queres. Ele também acaba por ser melhor, do que o próprio programa da Microsoft, já que este deixa-te fazer download de qualquer versão do Windows e do Office.
+
+- [Microsoft Windows and Office ISO Download Tool](https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)
 
 ### Debloat Windows
 
@@ -1962,7 +1979,8 @@ Payday 2 é um jogo porreiro? Eu realmente já não sei definir isso com exatid�
 | [Legendary Cursor Skins](https://modworkshop.net/mod/28530)       | Cursores ÉPICOS para o jogo                                                     |
 
 
-**-> UM DIA ACABO <-**
+**UM DIA ACABO**
+
 ### Max Payne 2, que funciona em computadores novos
 
 - [Max Payne 2 The Fall of Max Payne](https://mega.nz/file/XXJhFJCI#qrjSXxW5KZG8HkhhYEMgi2NS2MZuoPxaEvz64RQZuxU)
