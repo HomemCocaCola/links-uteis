@@ -796,6 +796,13 @@ Na hora de sacar jogos, com a internet da universidade, este é talvez o único 
 ### Downloader de Anime / Mangá
 O que eu escrevi [aqui](https://rentry.org/linksuteis#downloader-de-anime-mang%C3%A1)
 - [HakuNeko](https://hakuneko.download/)
+### Programa para Criar Storyboards
+Este programa é muito forte, na hora de criar storyboards e já me safou algumas vezes na vida universitária. Um grande exemplo disso foi quando fiz o meu filme e precisei gerar storyboards para os vários planos. Estava num trabalho de grupo, a trabalhar sozinho, mas mesmo assim, consegui a melhor nota da turma inteira. Consegui tal feito, porque a qualidade e capacidades do programa são realmente boas. O facto que ele possibilita gerar cenários 3D, de forma tão simples é quase como mágico. Ele também trabalha muito bem com desenho convencional, mas pouco toquei nele. Um dos fatores para tal, é o fraco seletor de cores. Não sei se foi skill issue da minha parte, mas não gostei dele.
+> descobri que existe um novo "storyboarder" e parece ser de anime.
+> vou deixar o link cá, porque foda-se vai que
+- [Storyboarder todo Anime da vida](https://storyboarder.com/)
+**Eu adicionei o link para o github, porque o website da empresa exige colocar um email para fazer o download**
+- [Storyboarder](https://github.com/wonderunit/storyboarder)
 ***
 ## Aparelho de Espionagem Criado Pelo Governo Norte Americano Com o Intuito de Controlar a População Como o Livro 1984
 ![Aplicativos Android Imagem](https://cdn.discordapp.com/attachments/499972320748896279/1001918550979661844/aplicativos-android_-_header.png)
